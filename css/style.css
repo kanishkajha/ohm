@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-video {
-    border-color: 
+.video {
+    border-color:Red 
+}
+.font-family {
+    font-family: monospace;
+}
+.color {
+    color:green
 }
