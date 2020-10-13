@@ -1,11 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+.wrapper {
+    max-width: 960;
+    margin: 0 auto;
+}
+
 .video {
     border-color:Red 
 }
+
 .font-family {
     font-family: monospace;
 }
-.color {
-    color:green
+
+ h1, h2, h3, h4, a {
+    text-align: center;
+}
+
+iframe {
+    margin-left: 120px;
+    border: 10px solid red;
 }
