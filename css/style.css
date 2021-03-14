@@ -1,68 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-.wrapper {
-    max-width: 960px;
-    margin: 0 auto;
-}
-
-.nav {
-    margin-top: 100px;
-}
-
-.video {
-    border-color:Red 
-}
-
-.font-family {
-    font-family: monospace;
-}
-
- h1, h2, h3, h4, a {
-    text-align: center;
-}
-
-iframe {
-    margin-left: 120px;
-    border: 10px solid red;
-}
-.kannu {
-    text-align: center;
-}
-
-.sannu {
-    text-align: center;
-}
-
-.mannu {
-    text-align: center;
-}
-
- 
-.kaka {
-    display: block 10px;
-    margin-left: auto;
-    margin-right: auto;
-    width:50%;
-
-}
-.nav-items {
-    display: flex;
-    justify-content: center;
-}
-
-.nav-item {
-    margin: 0 15px;
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-}
 
 body {
     background-color: #F9ACF6;
 }
-.large-font {
-    font-size: 72px;
-    color: yellow;
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+div {
+    border: 4px rebeccapurple;
 }
