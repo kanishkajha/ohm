@@ -1,3 +1,15 @@
+body {
+    background: violet;
+}
+
+
+.border {
+    border: yellow 2px solid ;
+}
+
+
+
+
 .center {
     text-align: center;
 }
