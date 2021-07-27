@@ -2,15 +2,12 @@ body {
     background: violet;
 }
 
-
-/* .border {
+.bordered-div {
+    border: 5px ridge yellow;
     display: inline-block;
-    border: yellow 2px outset ;
-} */
+}
 
-
-
-
+ 
 .center {
     text-align: center;
 }
