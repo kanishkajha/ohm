@@ -3,9 +3,10 @@ body {
 }
 
 
-.border {
-    border: yellow 2px solid ;
-}
+/* .border {
+    display: inline-block;
+    border: yellow 2px outset ;
+} */
 
 
 
