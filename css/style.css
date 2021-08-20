@@ -1,13 +1,38 @@
 body {
-    background: violet;
+    background: blueviolet;
 }
 
-.bordered-div {
-    border: 5px ridge yellow;
-    display: inline-block;
-}
 
+form {
+    display: flex;
+    flex-direction: column;
+}
  
 .center {
     text-align: center;
+}
+
+
+.form-container {
+    max-width: 500px;
+    text-align: center;
+    background: greenyellow;
+}
+
+input {
+    margin: 16px;
+    border: 1px solid pink;
+}
+
+.bordered-div {
+    background: grey;
+    
+}
+
+.form-container {
+    display:flex;
+}
+
+.bg- {
+    background: purple;
 }
