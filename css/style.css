@@ -1,38 +1,49 @@
 body {
-    background: blueviolet;
+    background: wheat;
 }
 
 
-form {
-    display: flex;
-    flex-direction: column;
-}
  
+
+
+
 .center {
-    text-align: center;
-}
-
-
-.form-container {
-    max-width: 500px;
-    text-align: center;
-    background: yellow;
-}
-
-input {
-    margin: 16px;
-    border: 1px solid pink;
-}
-
-.bordered-div {
-    background: grey;
+   text-align: center;
+    background-color: yellow;
     
 }
 
-.form-container {
-    display:flex;
+.colored-bg-1 {
+ background-color: rgb(155, 228, 20);
 }
 
-.bg- {
-    background: purple;
+.colored-bg-2 {
+    background-color: rgb(255, 0, 140);
+   }
+
+   .colored-bg-3 {
+    background-color: rgb(7, 233, 233);
+   }
+
+   .colored-bg-4 {
+    background-color: blue;
+   }
+
+.content-block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column-5 {
+    width: 20%;
+    min-height: 100vh;
+   
+}
+
+.content {
+    padding: 16px 48px;
+}
+
+h2 {
+    text-align: center;
 }
